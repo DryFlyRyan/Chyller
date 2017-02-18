@@ -1,0 +1,3 @@
+[submodule "Chyller-Web-FE"]
+	path = Chyller-Web-FE
+	url = git@lddkey:DryFlyRyan/Chyller-Web-FE.git
